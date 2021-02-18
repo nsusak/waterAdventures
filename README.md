@@ -1,0 +1,1 @@
+# waterAdventures is a simple single page project done only with HTML and CSS for a fake company that offers water adventure tours. The styling is done with CSS only and includes some very simple animations to enhance user experience.
